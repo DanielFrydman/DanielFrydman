@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel David Frydman.
 
 - 🔭 Hoje trabalho com Ruby on Rails para a empresa BEEP SAÚDE.
-- 🌱 Sempre estudando, em busca de evoluir minhas skills em Ruby e Rails.
+- 🌱 Sempre estudando, estou em busca de evoluir minhas skills em Ruby e Rails.
 - 👯 Gosto de ajudar todos ao meu redor, para que possamos crescer juntos.
 - 📫 Contate-me no e-mail: danielfrydman@id.uff.br
 - 😄 Pronouns: Ele/He
