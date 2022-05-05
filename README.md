@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel David Frydman.
 
-- 🔭 Hoje trabalho com Ruby on Rails / VueJS dentre outras tecnologias para a empresa BEEP SAÚDE.
+- 🔭 Hoje trabalho com Ruby on Rails / VueJS dentre outras tecnologias para a empresa BEEP SAÚDE. Conceitos de Test-Driven Development, Domain Driven Design, Behavior Driven Development e Arquitetura Hexagonal.
 - 🌱 Sempre estudando, estou em busca de evoluir minhas skills em diferentes linguagens, programação orientada a objetos, test driven development, domain driven design e arquitetura hexagonal.
 - 👯 Gosto de ajudar todos ao meu redor, para que possamos crescer juntos.
 - 📫 Contate-me no e-mail: danielfrydman@id.uff.br
