@@ -1,11 +1,11 @@
-## Olá! Eu sou o Daniel David Frydman.
+## Hello! I am Daniel David Frydman.
 
-- 🔭 Hoje trabalho com Ruby on Rails / VueJS dentre outras tecnologias para a empresa BEEP SAÚDE. Conceitos de Test-Driven Development, Domain Driven Design, Behavior Driven Development e Arquitetura Hexagonal.
-- 🌱 Sempre estudando, estou em busca de evoluir minhas skills em diferentes linguagens, programação orientada a objetos, test driven development, domain driven design e arquitetura hexagonal.
-- 👯 Gosto de ajudar todos ao meu redor, para que possamos crescer juntos.
-- 📫 Contate-me no e-mail: danielfrydman@id.uff.br
-- 😄 Pronouns: Ele/He
-- ⚡ Fun fact: Já me formei Oficial temporário do Exército Brasileiro da arma de Infantaria.
+- 🔭 Today I work with Ruby on Rails / VueJS among other technologies for the company BEEP SAÚDE. Test-Driven Development, Domain Driven Design, Behavior Driven Development and Hexagonal Architecture concepts.
+- 🌱 Always studying, I'm looking to improve my skills in different languages, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
+- 👯 I like to help everyone around me so that we can grow together.
+- 📫 Contact me by email: danielfrydman@id.uff.br
+- 😄 Pronouns: He
+- ⚡ Fun fact: I have already graduated as an officer of the Brazilian Army.
 ##
 <div align="center">
   <a href="https://github.com/DanielFrydman">
