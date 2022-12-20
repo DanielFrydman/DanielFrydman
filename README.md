@@ -1,10 +1,10 @@
 ## Hello! I'm Daniel David Frydman.
 
 - 🔭 Today I work with Ruby on Rails / VueJS among other technologies for the company BEEP SAÚDE. Test-Driven Development, Domain Driven Design, Behavior Driven Development and Hexagonal Architecture concepts.
-- 🌱 Always studying, I'm looking to improve my skills in different languages, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
+- 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
 - 👯 I like to help everyone around me so that we can grow together.
 - 📫 Contact me by email: danielfrydman@id.uff.br
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have already graduated as an officer of the Brazilian Army.
 ##
 <div align="center">
