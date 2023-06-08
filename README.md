@@ -1,6 +1,6 @@
 ## Hello! I'm Daniel David Frydman.
 
-- 🔭 Today I work with Ruby on Rails / VueJS among other technologies for the company BEEP SAÚDE. Test-Driven Development, Domain Driven Design, Behavior Driven Development and Hexagonal Architecture concepts.
+- 🔭 Today I work with Ruby on Rails among other technologies for the company PicPay (BX Blue).
 - 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
 - 👯 I like to help everyone around me so that we can grow together.
 - 📫 Contact me by email: danielfrydman@id.uff.br
