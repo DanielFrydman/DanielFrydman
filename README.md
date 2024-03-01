@@ -1,6 +1,6 @@
 ## Hello! I'm Daniel David Frydman.
 
-- 🔭 Today I work with Ruby on Rails among other technologies for the company PicPay (BX Blue).
+- 🔭 Working for Blinkist.
 - 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
 - 👯 I like to help everyone around me so that we can grow together.
 - 📫 Contact me by email: danielfrydman@id.uff.br
