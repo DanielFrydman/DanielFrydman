@@ -3,7 +3,7 @@
 - 🔭 Working for Blinkist.
 - 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
 - 👯 I like to help everyone around me so that we can grow together.
-- 📫 Contact me by email: danielfrydman@id.uff.br
+- 📫 Contact me by email: danielfrydmanprof@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have already graduated as an officer of the Brazilian Army.
 ##
