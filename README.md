@@ -1,7 +1,7 @@
 ## Hello! I'm Daniel David Frydman.
 
-- 🔭 Working for Blinkist.
-- 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture.
+- 🔭 Working for Valimail.
+- 🌱 Always studying, I'm looking to improve my skills in Ruby on Rails, object-oriented programming, test driven development, domain driven design and hexagonal architecture. MODULAR MONOLITHS FOR THE WIN!!!
 - 👯 I like to help everyone around me so that we can grow together.
 - 📫 Contact me by email: danielfrydmanprof@gmail.com
 - 😄 Pronouns: He/Him
@@ -54,7 +54,6 @@
   <a href="https://br.linkedin.com/in/danieldfrydman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/daniel.frydman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://danonrails.wordpress.com" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/248585654760505344" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="mailto:danielfrydmanprof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  
+ 	<a href="https://discordapp.com/users/248585654760505344" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 	<a href="mailto:danielfrydmanprof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </div>
